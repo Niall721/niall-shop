@@ -15,10 +15,8 @@ header{
 header img{
     width: 300px;
 }
-
 header h1{
     font-family: "EB Garamond", serif;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal;
+    font-optical-sizing: auto;
+    font-style: normal;
 }
