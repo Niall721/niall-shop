@@ -12,8 +12,10 @@ header{
     background-color: grey;
     padding: -20px;
 }
-header img{
+header .pfp{
     width: 300px;
+    background-image: url('./../img/name-tape-logo.png');
+    background-repeat: no-repeat;
 }
 header h1{
     font-family: "EB Garamond", serif;
