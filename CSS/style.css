@@ -14,11 +14,12 @@ header{
 }
 header .pfp{
     height: 176px;
-    background-size: 75%;
+    max-width: 100%;
     background-image: url('./../img/name-tape-logo.png');
     background-repeat: no-repeat;
-    background-position: center center;
+    background-position: center top;
     margin: 0px auto;
+    padding-top: 5px;
 }
 
 
@@ -68,4 +69,10 @@ footer{
 footer .content{
     max-width: 800px;
     margin: 0px auto;   
+}
+
+@media (max-width:600px){
+    h2{
+        font-size: 18px;
+    }
 }
