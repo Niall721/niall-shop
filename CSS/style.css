@@ -18,13 +18,16 @@ header .pfp{
     background-image: url('./../img/name-tape-logo.png');
     background-repeat: no-repeat;
     background-position: center center;
-    margin: 10px auto;
+    margin: 0px auto;
 }
+
+
 h1{
     font-family: "EB Garamond", serif;
     font-optical-sizing: auto;
-    font-size: 50px;
+    font-size: 80px;
     font-style: normal;
+    text-align: justify;
     margin: 20px auto;
 }
 
